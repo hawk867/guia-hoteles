@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Primer proyecto Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawk867/guia-hoteles.git"
+  },
+  "author": "Daniel Esteban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawk867/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/hawk867/guia-hoteles#readme"
+}
