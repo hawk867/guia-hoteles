@@ -23,3 +23,6 @@ footer a{
 .navbar{
     padding: 15px;
 }
+td, th{
+    text-align: center;
+}
